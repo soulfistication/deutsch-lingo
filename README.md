@@ -2,4 +2,4 @@
 
 Created this SwiftUI app to practice German:
 
-<img width="292" height="600" alt="lingo" src="https://github.com/user-attachments/assets/8e49dfe0-07b4-4435-8bdc-d709c4efb50b" />
+<img width="477" height="925" alt="deutsch" src="https://github.com/user-attachments/assets/38f0c30f-cad0-426d-8b81-7a7cd1b7c92d" />
